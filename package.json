@@ -40,7 +40,7 @@
     },
     "dependencies": {
         "commander": "2.0.0",
-        "csscomb-core": "git://github.com/csscomb/core.git#41fda6925ee8bb4e7df496bde68d411fdf81b370",
+        "csscomb-core": "csscomb/core#41fda6925ee8bb4e7df496bde68d411fdf81b370",
         "gonzales-pe": "3.0.0-28",
         "vow": "0.4.4"
     },
